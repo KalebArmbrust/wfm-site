@@ -2,7 +2,6 @@ import './home.scss';
 import Header from '../Header/header';
 import Footer from '../Footer/footer';
 import React, { Component } from 'react';
-import { Link, Outlet } from "react-router-dom";
 import wf1 from '../../assets/images/wf7.jpg';
 
 export default class home extends Component {
