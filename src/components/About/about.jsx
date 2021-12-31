@@ -2,7 +2,7 @@ import './about.scss';
 import Header from '../Header/header';
 import Footer from '../Footer/footer';
 import React, { Component } from 'react';
-import wf2 from '../../assets/images/wf2.jpg';
+import wf2 from 'https://kalebarmbrust.github.io/wfm-site/src/assets/images/wf2.jpg';
 
 export default class home extends Component {
     render() {
