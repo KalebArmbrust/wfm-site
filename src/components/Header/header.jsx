@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link, Outlet } from "react-router-dom";
 import './header.scss';
-import wflogo from "http://kalebarmbrust.github.io/wfm-site/src/assets/images/wflogo.png"
+import wflogo from "../../assets/images/wflogo.png"
 
 export default class home extends Component {
     render() {

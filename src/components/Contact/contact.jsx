@@ -2,7 +2,7 @@ import './contact.scss';
 import Header from '../Header/header';
 import Footer from '../Footer/footer';
 import React, { Component } from 'react';
-import wf3 from 'http://kalebarmbrust.github.io/wfm-site/src/assets/images/wf3.jpg';
+import wf3 from '../../assets/images/wf3.jpg';
 
 export default class home extends Component {
     render() {
