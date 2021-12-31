@@ -21,7 +21,7 @@ export default class home extends Component {
                         </p>
                     </div>
                     <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
-                        <img class="rounded-lg-3" src={wf3} alt="Jet" width="720" loading="lazy"/>
+                        {/* <img class="rounded-lg-3" src={wf3} alt="Jet" width="720" loading="lazy"/> */}
                     </div>
                     </div>
                 </div>
