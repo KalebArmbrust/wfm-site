@@ -10,9 +10,11 @@ export default class home extends Component {
             <div>
                 <Header />
                 <div class="px-4 pt-5 my-5 text-center">
-                    <h1 class="display-4 fw-bold">Centered screenshot</h1>
+                    <h1 class="display-4 fw-bold">About Us</h1>
                     <div class="col-lg-6 mx-auto">
-                    <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+                    <p class="lead mb-4">
+                        We are helping to meet growing global energy demand and limit CO2 emissions by producing more, cleaner-burning natural gas. Natural gas powers, heats and cools industries, homes and businesses. It fuels trucks and ships, as an alternative to diesel and heavy fuel oil. Plus, it goes into many everyday essentials.
+                    </p>
                     </div>
                     <div class="overflow-hidden" style={{ maxHeight: '50vh' }}>
                     <div class="container px-5">

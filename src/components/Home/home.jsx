@@ -17,8 +17,12 @@ export default class home extends Component {
                             <img src={wf1} class="d-block mx-lg-auto img-fluid" alt="Jet" width="700" height="500" loading="lazy"/>
                         </div>
                         <div class="col-lg-6">
-                            <h1 class="display-5 fw-bold lh-1 mb-3">Responsive left-aligned hero with image</h1>
-                            <p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+                            <h1 class="display-5 fw-bold lh-1 mb-3">Aviation Fuel Services for Airports and FBOs</h1>
+                            <p class="lead">
+                                Airports and FBOs trust World Fuel Management for reliable branded and unbranded fuel supply and brand programs that build their businesses.
+                                <br/><br/>
+                                We provide expert jet fuel solutions and services that encompass reliable 24/7 global aviation fuel supply, valuable brand and marketing programs, leading card rewards programs, expert logistics, technical services, training, and aviation software. 
+                            </p>
                         </div>
                         </div>
                     </div>
